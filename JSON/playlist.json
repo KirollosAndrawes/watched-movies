@@ -1,0 +1,357 @@
+[
+    {
+        "id": 1,
+        "movieURL": "",
+        "movieImgURL": "https://images.moviesanywhere.com/movie-hero/ed94ba5b611935dc4cb2c208b2efb2c1.jpeg?r=16x9&w=480",
+        "movieTitleInEnglish": "the lion king",
+        "movieTitleInArabic": "",
+        "yearOfShow": "1994",
+        "IMDB_Rating": "8.5",
+        "ratingContent": "G",
+        "movieShowTime" : "00:00:00",
+        "directors": ["Roger Allers", "Rob Minkoff"],
+        "writters": ["Irene Mecchi", "Jonathan Roberts", "Linda Woolverton"],
+        "movieCast": [
+            {
+                "name" : "Rowan Atkinson",
+                "characterName": "Zazu",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTg3NDUzOTc3MV5BMl5BanBnXkFtZTcwNjcxMDkxNw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Matthew Broderick",
+                "characterName": "Simba",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTg2NjA0MzM0OF5BMl5BanBnXkFtZTcwMDU5ODAxMw@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Jeremy Irons",
+                "characterName": "Scar",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTY5Mzg2NDY5OV5BMl5BanBnXkFtZTcwMDQwNzA0Mg@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+            }
+        ],
+        "genres": ["Animation", "Adventure", "Drama"],
+        "storyAboutInEnglish": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "storyAboutInArabic": "",
+        "movieLanguage": "English",
+        "movieCountry": ["USA"],
+        "personalInfo": {
+            "watched": false,
+            "dateOfWatched": "00/00/0000",
+            "myRating": "0.0",
+            "notes": ""
+        }
+    },
+    {
+        "id": 2,
+        "movieURL": "",
+        "movieImgURL": "https://media0033.elcinema.com/uploads/_315x420_d52a8ef14cb56be3a07d2a1066895f94ecf07cca502a16f7842b25a3c8594167.jpg",
+        "movieTitleInEnglish": "Sorry to Disturb",
+        "movieTitleInArabic": "آسف على الإزعاج",
+        "yearOfShow": "2008",
+        "IMDB_Rating": "8.1",
+        "ratingContent": "",
+        "movieShowTime" : "00:00:00",
+        "directors": ["Khaled Marei"],
+        "writters": ["Ayman Bahgat Kamar"],
+        "movieCast": [
+            {
+                "name" : "Ahmed Helmy",
+                "characterName": "Hasan Salah Eddin Zeidan",
+                "img": "https://m.media-amazon.com/images/M/MV5BYzZhZjNmYzctYmNmOS00YzI1LThmYTgtODY1YzA3MGVkZTgzXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_UY44_CR17,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Menna Shalabi",
+                "characterName": "Faridah / Mariem",
+                "img": "https://m.media-amazon.com/images/M/MV5BNGQ5YTUxMGMtYjJhYS00ZGY2LWFkYWYtYTk1ZjNjMWQ3YTc5XkEyXkFqcGdeQXVyMTQ3MDQ0ODY0._V1_UY44_CR0,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Dalal Abdulaziz",
+                "characterName": "Nawal",
+                "img": "https://m.media-amazon.com/images/M/MV5BMWNmMTBkMWQtYTZjZC00YmRiLTg4YzgtMzQ2ZjU0Y2E2YjgwXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_UY44_CR29,0,32,44_AL_.jpg"
+            }
+        ],
+        "genres": ["Comedy", "Drama", "Mystery"],
+        "storyAboutInEnglish": "Hassan, a brilliant aviation engineer struggles with loneliness and depression while trying to design his exceptional project.",
+        "storyAboutInArabic": "",
+        "movieLanguage": "Arabic",
+        "movieCountry": ["Egypt"],
+        "personalInfo": {
+            "watched": false,
+            "dateOfWatched": "00/00/0000",
+            "myRating": "0.0",
+            "notes": ""
+        }
+    },
+    {
+        "id": 3,
+        "movieURL": "",
+        "movieImgURL": "https://m.media-amazon.com/images/M/MV5BMjI1NDU1MjcxN15BMl5BanBnXkFtZTcwODczNTM1Mw@@._V1_FMjpg_UX800_.jpg",
+        "movieTitleInEnglish": "Gulliver's Travels",
+        "movieTitleInArabic": "",
+        "yearOfShow": "2010",
+        "IMDB_Rating": "4.9",
+        "ratingContent": "PG",
+        "movieShowTime" : "00:00:00",
+        "directors": ["Rob Letterman"],
+        "writters": ["Joe Stillman", "Nicholas Stoller", "Jonathan Swift"],
+        "movieCast": [
+            {
+                "name" : "Jack Black",
+                "characterName": "Lemuel Gulliver",
+                "img": "https://m.media-amazon.com/images/M/MV5BYTFiMWNlNmItMDRiYy00NzA4LWE5YjItZmViNWQ2NzhhOWZlXkEyXkFqcGdeQXVyMTA2Mjc5ODMy._V1_UY44_CR1,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Jason Segel",
+                "characterName": "Horatio",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTUwNzcxNzM1Nl5BMl5BanBnXkFtZTgwNzA5NzU4MjE@._V1_UY44_CR0,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Emily Blunt",
+                "characterName": "Princess Mary",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Amanda Peet",
+                "characterName": "Darcy Silverman",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTk3Nzk0NjgxN15BMl5BanBnXkFtZTcwMzI3NDE1Mg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+            }
+        ],
+        "genres": ["Adventure", "Comedy", "Family"],
+        "storyAboutInEnglish": "Travel writer Lemuel Gulliver takes an assignment in Bermuda but ends up on the island of Lilliput, where he towers over its tiny citizens.",
+        "storyAboutInArabic": "تدور أحداث الفيلم حول الكاتب الرحال (ليمويل جيلفر) الذي يجد نفسه نُقل إلى جزيرة في وسط مثلث برمودا، حيث أنه عملاق بين المواطنين، الذين اتخذوه في البداية سجين، لكنه يتمكن من إيجاد الطريقة التي تمكن أهالي جزيرة ليليبوت أن يطردوا منافسيهم ألا وهم أهالي بلوفسكنديا.",
+        "movieLanguage": "English",
+        "movieCountry": ["USA"],
+        "personalInfo": {
+            "watched": false,
+            "dateOfWatched": "00/00/0000",
+            "myRating": "0.0",
+            "notes": ""
+        }
+    },
+    {
+        "id": 4,
+        "movieURL": "",
+        "movieImgURL": "https://m.media-amazon.com/images/M/MV5BYTJiMWFiNzgtMDQxZi00NTFiLWE2YjMtNTA5NzY5YzQxZjNjXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX500_.jpg",
+        "movieTitleInEnglish": "Fun with Dick and Jane",
+        "movieTitleInArabic": "",
+        "yearOfShow": "2005",
+        "IMDB_Rating": "6.2",
+        "ratingContent": "PG-13",
+        "movieShowTime" : "00:00:00",
+        "directors": ["Dean Parisot"],
+        "writters": ["Gerald Gaiser"," Judd Apatow"," Nicholas Stoller"],
+        "movieCast": [
+            {
+                "name" : "Jim Carrey",
+                "characterName": "Dick Harper",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1_UY44_CR2,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Téa Leoni",
+                "characterName": "Jane Harper",
+                "img": "https://m.media-amazon.com/images/M/MV5BNjYzOTc0Nzc3Ml5BMl5BanBnXkFtZTgwMzQ0NTA0NzM@._V1_UY44_CR1,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Alec Baldwin",
+                "characterName": "Jack McCallister",
+                "img": "https://m.media-amazon.com/images/M/MV5BMjE1Njg4MzY3M15BMl5BanBnXkFtZTcwNTY3MjE3NA@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Richard Jenkins",
+                "characterName": "Frank Bascombe",
+                "img": "https://m.media-amazon.com/images/M/MV5BMzM5MzA4NDcyN15BMl5BanBnXkFtZTcwMDkwNjQzMg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+            }
+        ],
+        "genres": ["Comedy"," Crime"],
+        "storyAboutInEnglish": "When an affluent couple lose all their money following a series of blunders, they turn to a life of crime to make ends meet.",
+        "storyAboutInArabic": "",
+        "movieLanguage": "English",
+        "movieCountry": ["USA"],
+        "personalInfo": {
+            "watched": false,
+            "dateOfWatched": "00/00/0000",
+            "myRating": "0.0",
+            "notes": ""
+        }
+    },
+    {
+        "id": 5,
+        "movieURL": "",
+        "movieImgURL": "https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX800_.jpg",
+        "movieTitleInEnglish": "Yes Man",
+        "movieTitleInArabic": "",
+        "yearOfShow": "2008",
+        "IMDB_Rating": "6.8",
+        "ratingContent": "PG-13",
+        "movieShowTime" : "00:00:00",
+        "directors": ["Peyton Reed"],
+        "writters": ["Nicholas Stoller"," Jarrad Paul"," Andrew Mogel"],
+        "movieCast": [
+            {
+                "name" : "Jim Carrey",
+                "characterName": "Carl",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1_UY44_CR2,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Zooey Deschanel",
+                "characterName": "Allison",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTgzMjM2NDE1OF5BMl5BanBnXkFtZTcwMjA2NDU5OA@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "Bradley Cooper",
+                "characterName": "Peter",
+                "img": "https://m.media-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+            },
+            {
+                "name" : "John Michael Higgins",
+                "characterName": "Nick",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTMzMTg4MDUyNl5BMl5BanBnXkFtZTcwMjMxMDI3Mg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+            }
+        ],
+        "genres": ["Comedy"," Romance"],
+        "storyAboutInEnglish": "A man challenges himself to say 'yes' to everything.",
+        "storyAboutInArabic": "",
+        "movieLanguage": "English",
+        "movieCountry": ["USA"],
+        "personalInfo": {
+            "watched": false,
+            "dateOfWatched": "00/00/0000",
+            "myRating": "0.0",
+            "notes": ""
+        }
+    },
+	{
+		"id": 6,
+		"movieURL": "",
+		"movieImgURL": "https://m.media-amazon.com/images/M/MV5BZGFiZjRhMTYtZmMzYS00MGEyLWEzN2EtNWMzMjA3OGI0NGZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX466_.jpg",
+		"movieTitleInEnglish": "Blast from the Past",
+		"movieTitleInArabic": "",
+		"IMDB_Rating": "6.7",
+		"ratingContent": "PG-13",
+		"movieShowTime": "1999",
+		"directors": ["Hugh Wilson"],
+		"writters": ["Bill Kelly","Hugh Wilson"],
+		"movieCast": [
+			{
+				"name": "Brendan Fraser",
+				"characterName": "Adam",
+				"img": "https://m.media-amazon.com/images/M/MV5BMjA5MjExMzY0M15BMl5BanBnXkFtZTgwNTMxOTg4MTI@._V1_UY44_CR0,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Alicia Silverstone",
+				"characterName": "Eve",
+				"img": "https://m.media-amazon.com/images/M/MV5BZDI5ODc5NzItNTJhYS00YWRkLTljMGMtYTM4YTgzMWY5MzYzXkEyXkFqcGdeQXVyMTEzNjc3MDQ5._V1_UY44_CR0,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Christopher Walken",
+				"characterName": "Calvin",
+				"img": "https://m.media-amazon.com/images/M/MV5BMjA4ODUyNDQ2NV5BMl5BanBnXkFtZTYwODk2MTYz._V1_UX32_CR0,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Sissy Spacek",
+				"characterName": "Helen",
+				"img": "https://m.media-amazon.com/images/M/MV5BODAwMTU4NTMwMF5BMl5BanBnXkFtZTgwMDMyMTg4MTE@._V1_UY44_CR0,0,32,44_AL_.jpg"
+			}
+		],
+		"genres": ["Comedy","Drama","Romance"],
+		"storyAboutInEnglish": "A naive man comes out into the world after spending 35 years in a nuclear fallout shelter.",
+		"storyAboutInArabic": "",
+		"movieLanguage": "English",
+		"movieCountry": ["USA"],
+		"personalInfo": {
+			"watched": false,
+			"dateOfWatched": "00/00/0000",
+			"myRating": "0.0",
+			"notes": ""
+		}
+		},
+	{
+		"id": 7,
+		"movieURL": "",
+		"movieImgURL": "https://m.media-amazon.com/images/M/MV5BNzYyNzM2NzM2NF5BMl5BanBnXkFtZTcwNjg5NTQzMw@@._V1_FMjpg_UY2048_.jpg",
+		"movieTitleInEnglish": "Hitch",
+		"movieTitleInArabic": "",
+		"IMDB_Rating": "6.6",
+		"ratingContent": "PG-13",
+		"movieShowTime": "2005",
+		"directors": ["Andy Tennant"],
+		"writters": ["Kevin Bisch"],
+		"movieCast": [
+			{
+				"name": "Will Smith",
+				"characterName": "Hitch",
+				"img": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Eva Mendes",
+				"characterName": "Sara",
+				"img": "https://m.media-amazon.com/images/M/MV5BMjA0MDQwMDI4NF5BMl5BanBnXkFtZTcwMjc1OTU1NA@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Kevin James",
+				"characterName": "Albert",
+				"img": "https://m.media-amazon.com/images/M/MV5BMTUyMTU1ODU4Ml5BMl5BanBnXkFtZTcwNDQ0NTY5NQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Amber Valletta",
+				"characterName": "Allegra",
+				"img": "https://m.media-amazon.com/images/M/MV5BMTgyMjMxMzU1NF5BMl5BanBnXkFtZTcwNDcyMDY4Mg@@._V1_UY44_CR2,0,32,44_AL_.jpg"
+			}
+		],
+		"genres": ["Comedy","Romance"],
+		"storyAboutInEnglish": "A smooth-talking man falls for a hardened columnist while helping a shy accountant woo a beautiful heiress.",
+		"storyAboutInArabic": "",
+		"movieLanguage": "English",
+		"movieCountry": ["USA"],
+		"personalInfo": {
+			"watched": false,
+			"dateOfWatched": "00/00/0000",
+			"myRating": "0.0",
+			"notes": ""
+		}
+	},
+	{
+		"id": 8,
+		"movieURL": "",
+		"movieImgURL": "https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_FMjpg_UX430_.jpg",
+		"movieTitleInEnglish": "13 Going on 30",
+		"movieTitleInArabic": "",
+		"IMDB_Rating": "6.3",
+		"ratingContent": "PG-13",
+		"movieShowTime": "2004",
+		"directors": ["Gary Winick"],
+		"writters": [" Josh Goldsmith","Cathy Yuspa"],
+		"movieCast": [
+			{
+				"name": "Jennifer Garner",
+				"characterName": "Jenna Rink",
+				"img": "https://m.media-amazon.com/images/M/MV5BNTA4MDgzMTc1Nl5BMl5BanBnXkFtZTcwNjQyMjIwNQ@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Mark Ruffalo",
+				"characterName": "Matt Flamhaff",
+				"img": "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_UX32_CR0,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Judy Greer",
+				"characterName": "Lucy Wyman",
+				"img": "https://m.media-amazon.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+			},
+			{
+				"name": "Andy Serkis",
+				"characterName": "Richard Kneeland",
+				"img": "https://m.media-amazon.com/images/M/MV5BYTgwYmM0ZjgtMWRmZC00YTc1LWIwYWEtYTFjMTZiMDNjNWRkXkEyXkFqcGdeQXVyNjcwMjczMzE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+			}
+		],
+		"genres": ["Comedy","Fantasy","Romance"],
+		"storyAboutInEnglish": "Unpopular schoolgirl Jenna Rink makes an unusual wish on her birthday. Miraculously, her wish comes true and the 13-year-old Jenna wakes up the next day as a 30-year-old woman.",
+		"storyAboutInArabic": "",
+		"movieLanguage": "English",
+		"movieCountry": ["USA"],
+		"personalInfo": {
+			"watched": false,
+			"dateOfWatched": "00/00/0000",
+			"myRating": "0.0",
+			"notes": ""
+		}
+	}
+]
